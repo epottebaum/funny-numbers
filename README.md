@@ -1,5 +1,5 @@
 # funny-numbers
-This repository contains the (anonymized) data collected for this study <INSERT ARXIV LINK>
+This repository contains the (anonymized) data collected for the study detailed in this paper: INSERT ARXIV LINK
 
 funny_numbers_survey.pdf is the survey participants were asked to complete.
 
