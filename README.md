@@ -1,5 +1,5 @@
 # funny-numbers
-This repository contains the (anonymized) data collected for the study detailed in this paper: INSERT ARXIV LINK
+This repository contains the (anonymized) data collected for the study detailed in this paper: https://arxiv.org/abs/2503.24175
 
 - funny_numbers_survey.pdf is a PDF version of the Google Forms survey given to participants.
 
